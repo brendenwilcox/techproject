@@ -1,0 +1,24 @@
+html
+body {
+  background-color: #00ffc3;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-family: arial;
+  font-size: 75px;
+}
+h2 {
+  color: red;
+  font-family: arial;
+  text-align: center;
+  font-style: oblique;
+}
+p {
+  color: yellow;
+  font-family: arial;
+  text-align: center;
+}
+hr {
+  background-color: red;
+}
