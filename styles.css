@@ -29,3 +29,12 @@ p {
 hr {
   background-color: orange;
 }
+img {
+  width: 25%;
+}
+.milestone-4 h2 {
+  color: white;
+}
+#milestone-5 h2 {
+  color: white;
+}
